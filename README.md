@@ -25,3 +25,5 @@ To promote and facilitate sustainable company travel practices by providing acti
 
 ## Detailed Project Description:
 This project focuses on company travel (for business purposes), which falls within Scope 3 of environmental emissions reporting. Data has been extracted from **Egencia** – the company travel platform through which all company travel is booked and tracked. The aim is to utilise this data to gain insight into company travel patterns and provide recommendations for strategies aimed at reducing the impacts of company travel.
+
+![Project Timeline](./Analytics_Timeline.jpg)
