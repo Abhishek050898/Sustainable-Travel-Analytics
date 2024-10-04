@@ -1,0 +1,631 @@
+Unnamed: 0,Department,Travel Start Date,Travel End Date,Origin,Destination,Route,In Policy,Booking Method,Segment Count,Employee ID,Mileage,Carbon Emission,Ticket Expense,nonuk
+3,0,2022-07-12,2022-07-12,Banbury,London Marylebone,Banbury - London Marylebone,Yes,Online,1,20298.0,120.86,4.96729,45.3,False
+7,0,2020-08-09,2020-08-09,Bearsted,London Blackfriars,Bearsted - London Blackfriars,Yes,Online,2,14792.0,124.65,5.12296,40.9,False
+8,0,2020-07-09,2020-07-09,Bearsted,London Blackfriars,Bearsted - London Blackfriars,Yes,Online,2,14792.0,124.65,5.12296,40.9,False
+9,0,2020-09-09,2020-09-09,Bearsted,London Blackfriars,Bearsted - London Blackfriars,Yes,Online,2,14792.0,124.65,5.12296,40.9,False
+10,0,2020-09-16,2020-09-16,Bearsted,London Blackfriars,Bearsted - London Blackfriars,Yes,Online,2,14792.0,121.21,4.98171,40.9,False
+11,0,2020-11-09,2020-11-09,Bearsted,London Blackfriars,Bearsted - London Blackfriars,Yes,Online,2,14792.0,121.21,4.98171,40.9,False
+12,0,2021-10-21,2021-10-21,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,2,14792.0,127.3,5.23203,42.0,False
+13,0,2021-10-28,2021-10-28,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,1,14792.0,63.11,2.59375,25.3,False
+14,0,2021-02-12,2021-03-12,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,2,14792.0,127.3,5.23203,42.0,False
+15,0,2022-03-16,2022-03-16,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,2,14792.0,127.3,5.23203,43.6,False
+16,0,2023-06-29,2023-06-29,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,2,14792.0,127.3,5.23203,46.2,False
+17,0,2021-08-12,2021-08-12,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,1,14792.0,63.11,2.59375,20.7,False
+18,0,2023-04-05,2023-04-05,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,2,14792.0,127.3,5.23203,46.2,False
+19,0,2021-12-08,2021-12-08,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,2,14792.0,127.3,5.23203,42.0,False
+20,0,2022-12-20,2022-12-20,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,2,14792.0,127.3,5.23203,43.6,False
+21,0,2022-09-09,2022-09-09,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,2,14792.0,127.3,5.23203,43.6,False
+22,0,2022-07-20,2022-07-20,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,2,14792.0,127.3,5.23203,43.6,False
+23,0,2021-10-18,2021-10-18,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,1,14792.0,63.11,2.59375,28.3,False
+24,0,2023-06-21,2023-06-21,Bearsted,London Victoria,Bearsted - London Victoria,Yes,Online,2,14792.0,127.3,5.23203,46.2,False
+30,0,2021-12-11,2021-12-11,Blackburn,Middlesbrough,Blackburn - Middlesbrough,Yes,Online,3,20367.0,460.35,18.92023,111.8,False
+31,0,2020-10-02,2020-10-02,Bolton,Manchester Piccadilly,Bolton - Manchester Piccadilly,Yes,Online,1,29160.0,24.51,1.00716,4.6,False
+32,0,2023-01-24,2023-01-24,Bolton,Manchester Victoria,Bolton - Manchester Victoria,Yes,Online,1,24784.0,23.71,0.9744,4.9,False
+45,0,2023-09-17,2023-09-17,Bristol Parkway,Bristol Temple Meads,Bristol Parkway - Bristol Temple Meads,Yes,Online,1,15661.0,11.85,0.48722,5.2,False
+47,1,2023-07-21,2023-07-21,Bristol Parkway,Gatwick Airport,Bristol Parkway - Gatwick Airport,Yes,Online,1,26959.0,211.26,8.68298,93.5,False
+48,1,2023-10-03,2023-10-03,Bristol Parkway,Gatwick Airport,Bristol Parkway - Gatwick Airport,Yes,Online,1,26959.0,211.26,8.68298,72.8,False
+50,0,2023-01-18,2023-01-19,Bristol Parkway,London Paddington,Bristol Parkway - London Paddington,Yes,Online,2,15661.0,367.99,15.12437,90.1,False
+53,0,2023-10-17,2023-10-17,Bristol Parkway,London Paddington,Bristol Parkway - London Paddington,Yes,Online,2,15661.0,367.99,15.12437,95.4,False
+58,0,2020-02-14,2020-02-14,Bristol Parkway,Stockport,Bristol Parkway - Stockport,Yes,Online,2,23933.0,521.6,21.43785,187.4,False
+59,0,2020-05-02,2020-05-02,Bristol Parkway,Stockport,Bristol Parkway - Stockport,Yes,Online,2,23933.0,521.6,21.43785,187.4,False
+61,0,2020-03-13,2020-03-13,Broxbourne,Stockport,Broxbourne - Stockport,No,Online,3,23933.0,938.79,38.58429,269.0,False
+62,0,2020-01-21,2020-01-21,Broxbourne,Stockport,Broxbourne - Stockport,Yes,Online,1,23933.0,312.9,12.86032,97.3,False
+63,0,2022-01-02,2022-01-02,Broxbourne,Tottenham Hale,Broxbourne - Tottenham Hale,Yes,Online,1,23933.0,20.72,0.85148,12.3,False
+64,0,2023-02-17,2023-02-17,Brussels-Midi,St. Pancras International Train Station,Brussels-Midi - St. Pancras International Train Station,No,Online,1,14792.0,375.74,2.25444,271.3,True
+65,0,2023-05-26,2023-05-26,Brussels-Midi,St. Pancras International Train Station,Brussels-Midi - St. Pancras International Train Station,No,Online,1,14792.0,375.74,2.25444,267.2,True
+66,0,2023-02-17,2023-02-17,Brussels-Midi,St. Pancras International Train Station,Brussels-Midi - St. Pancras International Train Station,No,Online,1,20298.0,375.74,2.25444,271.3,True
+69,0,2020-10-03,2020-10-03,Cambridge,London Kings Cross,Cambridge - London Kings Cross,Yes,Online,2,18216.0,184.18,7.56976,50.4,False
+70,0,2020-01-23,2020-01-23,Cambridge,London Kings Cross,Cambridge - London Kings Cross,Yes,Online,2,18216.0,184.18,7.56976,50.4,False
+71,0,2022-10-27,2022-10-27,Cardiff Central,Bearsted,Cardiff Central - Bearsted,Yes,Online,1,14792.0,298.95,12.28697,146.3,False
+74,0,2023-10-01,2023-10-01,Cardiff Central,London Paddington,Cardiff Central - London Paddington,Yes,Online,1,15612.0,234.84,9.65179,34.3,False
+75,0,2022-04-10,2022-04-10,Cardiff Central,London Paddington,Cardiff Central - London Paddington,Yes,Online,2,14792.0,470.23,19.32635,118.0,False
+76,0,2022-04-10,2022-04-10,Cardiff Central,London Paddington,Cardiff Central - London Paddington,Yes,Online,2,15589.0,470.23,19.32635,118.0,False
+77,0,2023-11-23,2023-11-23,Cardiff Central,London Paddington,Cardiff Central - London Paddington,Yes,Online,2,20645.0,470.23,19.32635,280.4,False
+79,0,2023-07-11,2023-07-11,Cardiff Central,London Paddington,Cardiff Central - London Paddington,Yes,Online,2,20645.0,470.23,19.32635,280.4,False
+80,0,2023-05-12,2023-05-12,Cardiff Central,London Paddington,Cardiff Central - London Paddington,Yes,Online,2,20645.0,470.23,19.32635,280.4,False
+81,0,2021-01-07,2021-01-07,Cardiff Central,Manchester Piccadilly,Cardiff Central - Manchester Piccadilly,Yes,Online,1,20645.0,296.8,12.19859,81.0,False
+82,0,2023-02-20,2023-02-20,Cardiff Central,Manchester Piccadilly,Cardiff Central - Manchester Piccadilly,No,Online,1,20645.0,296.8,12.19859,39.0,False
+83,0,2022-06-12,2022-06-12,Cardiff Central,Motherwell,Cardiff Central - Motherwell,No,Online,1,15758.0,604.21,24.83289,165.0,False
+84,0,2023-10-01,2023-10-01,Cardiff Central,Stockport,Cardiff Central - Stockport,Yes,Online,1,15612.0,294.27,12.09438,44.0,False
+85,0,2022-11-29,2022-11-29,Cardiff Central,Stockport,Cardiff Central - Stockport,Yes,Online,3,27093.0,883.09,36.29482,63.0,False
+86,0,2023-03-16,2023-03-16,Cardiff Central,Stockport,Cardiff Central - Stockport,Yes,Online,2,27093.0,588.53,24.18876,88.9,False
+87,0,2020-04-02,2020-04-02,Carlisle,Glasgow Central,Carlisle - Glasgow Central,Yes,Online,1,15637.0,154.79,6.36169,7.05,False
+88,0,2020-02-18,2020-02-18,Carlisle,Glasgow Central,Carlisle - Glasgow Central,Yes,Online,1,15637.0,154.79,6.36169,7.05,False
+89,0,2020-04-03,2020-04-03,Carlisle,Motherwell,Carlisle - Motherwell,Yes,Online,1,15637.0,135.9,5.58548,7.05,False
+90,0,2020-01-22,2020-01-22,Carlisle,Motherwell,Carlisle - Motherwell,Yes,Online,1,15637.0,135.9,5.58548,9.2,False
+95,0,2023-03-15,2023-03-15,Chester,Newport (South Wales),Chester - Newport (South Wales),No,Online,2,20298.0,444.99,18.28905,133.8,False
+96,0,2022-09-26,2022-09-27,Chester,Newport (South Wales),Chester - Newport (South Wales),No,Online,2,20298.0,444.99,18.28905,126.4,False
+100,0,2020-02-13,2020-02-14,Chesterfield,London St Pancras,Chesterfield - London St Pancras,Yes,Online,2,16887.0,477.65,19.63161,102.0,False
+101,0,2020-03-02,2020-03-02,Chesterfield,London St Pancras,Chesterfield - London St Pancras,Yes,Online,2,16887.0,477.65,19.63161,150.0,False
+102,0,2020-08-09,2020-08-09,Chesterfield,London St Pancras,Chesterfield - London St Pancras,Yes,Online,1,16887.0,238.93,9.82012,67.0,False
+106,0,2023-01-16,2023-01-16,Colwyn Bay,Manchester Airport,Colwyn Bay - Manchester Airport,Yes,Online,1,24666.0,111.42,4.57939,27.0,False
+107,0,2020-04-03,2020-04-03,Crewe,Carlisle,Crewe - Carlisle,No,Online,1,15637.0,229.3,9.42421,26.75,False
+108,0,2020-01-22,2020-01-22,Crewe,Carlisle,Crewe - Carlisle,No,Online,1,15637.0,229.3,9.42421,26.75,False
+109,0,2020-04-02,2020-04-02,Crewe,Carlisle,Crewe - Carlisle,No,Online,1,15637.0,229.3,9.42421,31.35,False
+110,0,2020-02-18,2020-02-18,Crewe,Carlisle,Crewe - Carlisle,No,Online,1,15637.0,229.3,9.42421,34.0,False
+127,0,2021-07-13,2021-07-13,Crewe,Glasgow Central,Crewe - Glasgow Central,Yes,Online,2,15637.0,768.09,31.56843,118.3,False
+128,0,2021-05-13,2021-05-13,Crewe,Glasgow Central,Crewe - Glasgow Central,Yes,Online,2,15637.0,768.09,31.56843,118.3,False
+129,0,2021-05-24,2021-05-24,Crewe,Glasgow Central,Crewe - Glasgow Central,Yes,Online,2,15637.0,768.09,31.56843,118.3,False
+130,0,2021-05-17,2021-05-17,Crewe,Glasgow Central,Crewe - Glasgow Central,Yes,Online,2,15637.0,768.09,31.56843,118.3,False
+131,0,2021-05-20,2021-05-20,Crewe,Glasgow Central,Crewe - Glasgow Central,Yes,Online,2,15637.0,768.09,31.56843,118.3,False
+132,0,2023-12-09,2023-12-09,Crewe,Haymarket,Crewe - Haymarket,Yes,Online,1,15637.0,380.21,15.62681,32.5,False
+133,0,2022-11-22,2022-11-22,Crewe,London Euston,Crewe - London Euston,Yes,Online,1,20298.0,269.81,11.08911,142.1,False
+134,0,2022-02-12,2022-02-12,Crewe,Manchester Oxford Road,Crewe - Manchester Oxford Road,Yes,Online,2,29423.0,112.65,4.63003,14.9,False
+135,0,2022-12-05,2022-05-13,Curriehill,Manchester Piccadilly,Curriehill - Manchester Piccadilly,Yes,Online,2,24733.0,692.44,28.45921,137.4,False
+137,0,2020-01-12,2020-10-12,Dax,London St-Pancras,Dax - London St-Pancras,Unknown,Agent Assisted,2,26959.0,2362.82,14.17691,426.74,True
+148,0,2022-08-31,2022-08-31,Ealing Broadway,Newport (South Wales),Ealing Broadway - Newport (South Wales),Yes,Online,1,14804.0,212.46,8.73194,120.1,False
+236,0,2021-12-13,2021-12-13,East Didsbury,Wigan North Western,East Didsbury - Wigan North Western,Yes,Online,1,19444.0,50.87,2.09062,7.1,False
+276,0,2020-09-03,2020-09-03,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,17.9,False
+277,0,2023-06-27,2023-06-28,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,2,14792.0,79.18,3.25432,40.3,False
+278,0,2022-03-05,2022-03-05,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,19.1,False
+279,0,2022-09-20,2022-09-20,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,19.1,False
+280,0,2021-11-22,2021-11-22,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,18.4,False
+281,0,2023-03-04,2023-03-04,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,20.2,False
+282,0,2023-06-20,2023-06-20,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,2,14792.0,79.18,3.25432,40.3,False
+283,0,2021-10-12,2021-10-12,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,2,14792.0,79.18,3.25432,36.7,False
+284,0,2022-10-03,2022-10-03,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,19.1,False
+285,0,2021-04-10,2021-04-10,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,18.4,False
+286,0,2020-10-09,2020-10-09,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,2,14792.0,79.18,3.25432,18.8,False
+287,0,2020-01-20,2020-01-20,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,17.9,False
+288,0,2020-10-02,2020-10-02,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,17.9,False
+289,0,2020-02-17,2020-02-17,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,2,14792.0,79.18,3.25432,35.8,False
+290,0,2020-02-03,2020-02-03,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,17.9,False
+291,0,2020-03-15,2020-03-15,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,17.9,False
+292,0,2022-04-19,2022-04-19,Ebbsfleet International,London St Pancras,Ebbsfleet International - London St Pancras,Yes,Online,1,14792.0,39.24,1.61257,19.1,False
+293,0,2023-05-23,2023-05-23,Ebbsfleet International,Stockport,Ebbsfleet International - Stockport,Unknown,Agent Assisted,1,14790.0,363.04,14.92089,207.3,False
+294,0,2023-10-18,2023-10-18,Ebbsfleet International,Stratford International,Ebbsfleet International - Stratford International,Yes,Online,1,14799.0,34.19,1.40522,20.1,False
+295,0,2022-08-23,2022-08-23,Ebbsfleet International,Stratford International,Ebbsfleet International - Stratford International,Yes,Online,2,14790.0,68.41,2.81147,37.9,False
+296,0,2023-02-10,2023-02-10,Ebbsfleet International,Stratford International,Ebbsfleet International - Stratford International,Yes,Online,1,14799.0,34.19,1.40522,20.1,False
+297,0,2022-12-09,2022-12-09,Ebbsfleet International,Stratford International,Ebbsfleet International - Stratford International,Yes,Online,1,14792.0,34.19,1.40522,19.0,False
+302,0,2023-11-12,2023-11-12,Ebbsfleet International Station,London St Pancras International,Ebbsfleet International Station - London St Pancras International,Yes,Online,1,14792.0,36.72,1.50922,20.2,True
+303,0,2024-02-01,2024-02-01,Ebbsfleet International Station,London St Pancras International,Ebbsfleet International Station - London St Pancras International,Yes,Online,1,14792.0,36.72,1.50922,20.2,True
+305,0,2023-04-25,2023-04-27,Edinburgh,Cambridge,Edinburgh - Cambridge,Yes,Online,2,26717.0,1057.88,43.47893,343.2,False
+317,0,2022-11-24,2022-11-24,Edinburgh,Glasgow Queen Street,Edinburgh - Glasgow Queen Street,Yes,Online,2,15366.0,147.75,6.07266,16.1,False
+318,0,2022-06-17,2022-06-17,Edinburgh,Leeds,Edinburgh - Leeds,Yes,Online,2,15366.0,622.07,25.56689,134.5,False
+319,0,2022-06-17,2022-06-17,Edinburgh,Leeds,Edinburgh - Leeds,Yes,Online,4,15366.0,1244.13,51.13378,134.5,False
+320,0,2020-01-29,2020-01-30,Edinburgh,Manchester Piccadilly,Edinburgh - Manchester Piccadilly,Yes,Online,2,24674.0,690.34,28.37301,58.5,False
+321,0,2020-01-29,2020-01-30,Edinburgh,Manchester Piccadilly,Edinburgh - Manchester Piccadilly,Yes,Online,2,15528.0,690.34,28.37301,58.5,False
+322,0,2022-12-12,2022-12-12,Edinburgh,Manchester Piccadilly,Edinburgh - Manchester Piccadilly,No,Online,1,15366.0,344.88,14.1744,81.1,False
+323,0,2022-10-31,2022-10-31,Edinburgh,Manchester Piccadilly,Edinburgh - Manchester Piccadilly,Yes,Online,1,15366.0,344.88,14.1744,45.6,False
+324,0,2022-07-13,2022-07-13,Edinburgh,Manchester Piccadilly,Edinburgh - Manchester Piccadilly,Yes,Online,1,15366.0,344.88,14.1744,44.1,False
+325,0,2023-11-14,2023-11-14,Edinburgh,Manchester Piccadilly,Edinburgh - Manchester Piccadilly,Yes,Online,1,15366.0,344.88,14.1744,51.3,False
+326,0,2023-11-27,2023-11-27,Edinburgh,Manchester Piccadilly,Edinburgh - Manchester Piccadilly,Yes,Online,1,15366.0,344.88,14.1744,45.6,False
+327,0,2021-08-26,2021-08-26,Edinburgh,Newark North Gate,Edinburgh - Newark North Gate,Yes,Online,1,23233.0,397.04,16.31826,42.0,False
+328,0,2021-08-13,2021-08-13,Edinburgh,Peterborough,Edinburgh - Peterborough,Yes,Online,1,23233.0,474.38,19.49719,137.8,False
+329,0,2021-08-20,2021-08-20,Edinburgh,Peterborough,Edinburgh - Peterborough,Yes,Online,1,23233.0,474.38,19.49719,66.0,False
+330,0,2022-08-07,2022-10-07,Edinburgh,Slough,Edinburgh - Slough,Yes,Online,2,26717.0,1270.45,52.21543,354.0,False
+331,0,2022-05-07,2022-06-07,Edinburgh,Thetford,Edinburgh - Thetford,Yes,Online,2,15366.0,1080.41,44.40503,212.0,False
+332,0,2023-10-29,2023-10-29,Falkirk High,Manchester Piccadilly,Falkirk High - Manchester Piccadilly,Yes,Online,1,15538.0,367.31,15.09663,68.2,False
+333,0,2023-11-26,2023-11-26,Falkirk High,Manchester Piccadilly,Falkirk High - Manchester Piccadilly,Yes,Online,1,15538.0,367.31,15.09663,61.6,False
+334,0,2023-08-10,2023-08-10,Falkirk High,Manchester Victoria,Falkirk High - Manchester Victoria,Yes,Online,1,15538.0,366.52,15.06382,68.2,False
+335,0,2023-01-06,2023-01-06,Falls of Cruachan,Calais,Falls of Cruachan - Calais,Unknown,Agent Assisted,1,20645.0,930.55,5.58329,269.0,True
+340,0,2022-05-24,2022-05-24,Frankfurt (main),Paris,Frankfurt (main) - Paris,Unknown,Agent Assisted,1,14792.0,570.24,3.42144,169.09,True
+341,0,2023-02-17,2023-02-17,Frankfurt (Main) Hbf,Brussels-Midi,Frankfurt (Main) Hbf - Brussels-Midi,Unknown,Agent Assisted,1,14792.0,400.61,2.40364,301.8,True
+344,0,2023-11-14,2023-11-14,Frankfurt (Main) Hbf,Paris Gare De L&#39;Est,Frankfurt (Main) Hbf - Paris Gare De L&#39;Est,Unknown,Agent Assisted,1,14792.0,241.4,1.44841,96.5,True
+345,0,2023-11-14,2023-11-14,Frankfurt (Main) Hbf,Paris Gare De L&#39;Est,Frankfurt (Main) Hbf - Paris Gare De L&#39;Est,Unknown,Agent Assisted,1,20298.0,241.4,1.44841,96.5,True
+346,0,2023-10-23,2023-10-24,Furness Vale,Bracknell,Furness Vale - Bracknell,Yes,Online,2,27107.0,679.89,27.94343,137.6,False
+347,0,2020-01-22,2020-01-22,Gare Du Nord,St. Pancras International Train Station,Gare Du Nord - St. Pancras International Train Station,No,Online,1,15538.0,449.75,2.69848,260.0,True
+348,0,2022-05-25,2022-05-25,Gare Du Nord,St. Pancras International Train Station,Gare Du Nord - St. Pancras International Train Station,No,Online,1,14792.0,449.75,2.69848,263.0,True
+349,0,2022-01-07,2022-01-07,Gare Du Nord,St. Pancras International Train Station,Gare Du Nord - St. Pancras International Train Station,No,Online,1,14792.0,449.75,2.69848,266.0,True
+351,0,2023-02-02,2023-02-02,Gare Du Nord,St. Pancras International Train Station,Gare Du Nord - St. Pancras International Train Station,No,Online,1,14792.0,449.75,2.69848,273.3,True
+352,0,2020-01-22,2020-01-22,Gare Du Nord,St. Pancras International Train Station,Gare Du Nord - St. Pancras International Train Station,No,Online,1,14792.0,449.75,2.69848,260.0,True
+353,0,2023-11-16,2023-11-16,Gare Du Nord,St. Pancras International Train Station,Gare Du Nord - St. Pancras International Train Station,No,Online,1,14792.0,449.75,2.69848,289.2,True
+354,0,2020-01-28,2020-01-28,Gare Du Nord,St. Pancras International Train Station,Gare Du Nord - St. Pancras International Train Station,Yes,Online,1,15661.0,449.75,2.69848,74.0,True
+355,0,2023-11-16,2023-11-16,Gare Du Nord,St. Pancras International Train Station,Gare Du Nord - St. Pancras International Train Station,No,Online,1,15538.0,449.75,2.69848,135.2,True
+356,0,2023-03-17,2023-03-17,Gare Du Nord,St. Pancras International Train Station,Gare Du Nord - St. Pancras International Train Station,No,Online,1,14792.0,449.75,2.69848,295.3,True
+357,0,2022-09-16,2022-09-16,Gare Du Nord,St. Pancras International Train Station,Gare Du Nord - St. Pancras International Train Station,No,Online,1,15612.0,449.75,2.69848,269.0,True
+358,0,2023-07-20,2023-07-20,Gare Du Nord,St. Pancras International Train Station,Gare Du Nord - St. Pancras International Train Station,No,Online,1,14792.0,449.75,2.69848,284.1,True
+360,1,2023-02-20,2023-02-20,Gatwick Airport,Bristol Parkway,Gatwick Airport - Bristol Parkway,Yes,Online,1,26959.0,213.42,8.77169,72.8,False
+365,0,2021-04-29,2021-04-29,Glasgow Central,Crewe,Glasgow Central - Crewe,No,Online,3,15637.0,1152.42,47.36464,144.7,False
+366,0,2021-09-23,2021-09-23,Glasgow Central,Crewe,Glasgow Central - Crewe,Yes,Online,3,15637.0,1152.42,47.36464,60.1,False
+367,0,2020-04-03,2020-04-03,Glasgow Central,Crewe,Glasgow Central - Crewe,No,Online,1,15637.0,384.34,15.79622,31.35,False
+368,0,2020-02-18,2020-02-18,Glasgow Central,Crewe,Glasgow Central - Crewe,No,Online,1,15637.0,384.34,15.79622,31.35,False
+369,0,2020-01-22,2020-01-22,Glasgow Central,Crewe,Glasgow Central - Crewe,No,Online,1,15637.0,384.34,15.79622,31.35,False
+370,0,2020-04-02,2020-04-02,Glasgow Central,Crewe,Glasgow Central - Crewe,No,Online,1,15637.0,384.34,15.79622,31.35,False
+371,0,2020-03-17,2020-03-17,Glasgow Central,Crewe,Glasgow Central - Crewe,No,Online,3,15637.0,1152.42,47.36464,73.6,False
+379,0,2020-03-24,2020-03-25,Glasgow Central,London Euston,Glasgow Central - London Euston,Yes,Online,4,15658.0,2581.67,106.10669,151.1,False
+382,0,2021-11-16,2021-11-17,Glasgow Central,London Euston,Glasgow Central - London Euston,Yes,Online,2,15545.0,1290.84,53.05335,155.0,False
+383,0,2020-08-09,2020-08-09,Glasgow Central,Manchester Piccadilly,Glasgow Central - Manchester Piccadilly,Yes,Online,3,27093.0,1045.1,42.95343,52.7,False
+384,0,2020-02-13,2020-02-13,Glasgow Central,Manchester Piccadilly,Glasgow Central - Manchester Piccadilly,Yes,Online,1,25096.0,348.49,14.32309,73.0,False
+385,0,2022-12-05,2022-05-13,Glasgow Central,Manchester Piccadilly,Glasgow Central - Manchester Piccadilly,Yes,Online,2,30241.0,696.6,28.63035,90.2,False
+386,0,2022-07-19,2022-07-20,Glasgow Central,Manchester Piccadilly,Glasgow Central - Manchester Piccadilly,Yes,Online,2,27715.0,696.6,28.63035,94.0,False
+387,0,2020-09-09,2020-09-09,Glasgow Central,Manchester Piccadilly,Glasgow Central - Manchester Piccadilly,Yes,Agent Assisted,1,27093.0,348.49,14.32309,52.5,False
+391,0,2021-05-20,2021-05-20,Glasgow Central,Melton Mowbray,Glasgow Central - Melton Mowbray,Yes,Online,1,23233.0,484.47,19.91169,119.2,False
+392,0,2021-07-16,2021-07-16,Glasgow Central,Nottingham,Glasgow Central - Nottingham,Yes,Online,1,23233.0,455.16,18.707,46.7,False
+393,0,2021-03-06,2021-03-06,Glasgow Central,Nottingham,Glasgow Central - Nottingham,Yes,Online,1,23233.0,455.16,18.707,38.0,False
+394,0,2021-06-17,2021-06-17,Glasgow Central,Nottingham,Glasgow Central - Nottingham,No,Online,1,23233.0,455.16,18.707,103.1,False
+395,0,2021-09-23,2021-09-23,Glasgow Central,Preston (Lancs),Glasgow Central - Preston (Lancs),Yes,Online,3,15637.0,884.41,36.34913,61.8,False
+396,0,2021-02-07,2021-02-07,Glasgow Queen Street,Newark North Gate,Glasgow Queen Street - Newark North Gate,Yes,Online,1,23233.0,439.48,18.06283,61.5,False
+397,0,2021-07-28,2021-07-28,Glasgow Queen Street,Newark North Gate,Glasgow Queen Street - Newark North Gate,Yes,Online,1,23233.0,439.48,18.06283,51.5,False
+398,0,2021-06-08,2021-06-08,Glasgow Queen Street,Peterborough,Glasgow Queen Street - Peterborough,Yes,Online,1,23233.0,516.83,21.24176,137.8,False
+399,0,2021-05-08,2021-05-08,Glasgow Queen Street,Peterborough,Glasgow Queen Street - Peterborough,Yes,Online,1,23233.0,516.83,21.24176,56.0,False
+400,0,2021-04-23,2021-04-23,Glasgow Queen Street,Watlington (Norfolk),Glasgow Queen Street - Watlington (Norfolk),Yes,Online,1,23233.0,542.25,22.28666,90.0,False
+401,0,2021-06-23,2021-06-23,Glasgow Queen Street,Watlington (Norfolk),Glasgow Queen Street - Watlington (Norfolk),Yes,Online,1,23233.0,542.25,22.28666,90.0,False
+402,0,2021-02-12,2021-02-12,Harlow Town,Tottenham Hale,Harlow Town - Tottenham Hale,Yes,Online,1,23933.0,27.15,1.11577,14.6,False
+403,0,2021-10-27,2021-10-27,Hayes & Harlington,Rose Hill,Hayes & Harlington - Rose Hill,Yes,Online,3,15690.0,892.65,36.68789,133.0,False
+404,0,2022-05-04,2022-05-04,Haymarket,Crewe,Haymarket - Crewe,Yes,Online,3,15637.0,1139.86,46.84836,112.3,False
+405,0,2022-04-05,2022-04-05,Haymarket,Crewe,Haymarket - Crewe,Yes,Online,3,15637.0,1139.86,46.84836,99.5,False
+406,0,2022-05-31,2022-05-31,Haymarket,Crewe,Haymarket - Crewe,Yes,Online,3,15637.0,1139.86,46.84836,124.0,False
+407,0,2022-03-15,2022-03-15,Haymarket,Crewe,Haymarket - Crewe,Yes,Online,3,15637.0,1139.86,46.84836,117.6,False
+408,0,2022-06-28,2022-06-28,Haymarket,Crewe,Haymarket - Crewe,Yes,Online,3,15637.0,1139.86,46.84836,112.3,False
+409,0,2022-10-05,2022-10-05,Haymarket,Crewe,Haymarket - Crewe,Yes,Online,3,15637.0,1139.86,46.84836,115.5,False
+411,0,2023-03-28,2023-03-28,Haymarket,Lancaster,Haymarket - Lancaster,No,Online,1,15637.0,258.8,10.6365,44.65,False
+415,0,2023-03-27,2023-03-27,Heathrow Terminal 5 (Rail Station Only),Romford,Heathrow Terminal 5 (Rail Station Only) - Romford,Yes,Online,2,15758.0,128.55,5.28321,61.4,False
+425,0,2023-11-20,2023-11-20,Heaton Chapel,Glossop,Heaton Chapel - Glossop,Yes,Online,2,27093.0,60.19,2.47396,8.8,False
+426,0,2020-01-17,2020-01-17,Hertford North,London Bridge,Hertford North - London Bridge,Yes,Online,2,29146.0,80.76,3.31919,25.6,False
+435,0,2023-09-14,2023-09-14,Lancaster,Crewe,Lancaster - Crewe,Yes,Online,1,15637.0,126.6,5.20333,26.05,False
+440,0,2021-04-10,2021-04-10,Leasowe,Preston (Lancs),Leasowe - Preston (Lancs),Yes,Online,1,20298.0,66.67,2.74014,14.8,False
+441,0,2022-07-15,2022-07-15,Leeds,Edinburgh,Leeds - Edinburgh,Yes,Online,1,15366.0,310.93,12.77913,118.5,False
+449,0,2022-04-10,2022-04-10,Liverpool Lime Street,London Euston,Liverpool Lime Street - London Euston,Yes,Online,2,20298.0,673.8,27.69328,98.1,False
+450,0,2022-10-17,2022-10-17,Liverpool Lime Street,London Euston,Liverpool Lime Street - London Euston,Yes,Online,1,20298.0,337.4,13.86699,156.5,False
+451,0,2023-05-15,2023-05-15,Liverpool Lime Street,London Euston,Liverpool Lime Street - London Euston,Yes,Online,1,20298.0,337.4,13.86699,171.3,False
+453,0,2023-07-17,2023-07-19,Liverpool Lime Street,Thetford,Liverpool Lime Street - Thetford,Yes,Online,2,21234.0,715.07,29.38922,124.0,False
+454,0,2023-05-22,2023-05-23,Liverpool Lime Street,Thetford,Liverpool Lime Street - Thetford,Yes,Online,2,21234.0,715.07,29.38922,124.0,False
+455,0,2023-10-10,2023-11-10,Liverpool Lime Street,Thetford,Liverpool Lime Street - Thetford,Yes,Online,2,21234.0,715.07,29.38922,124.0,False
+456,0,2023-12-14,2023-12-14,Livingston North,Broadbottom,Livingston North - Broadbottom,Yes,Online,1,0.0,395.18,16.24171,41.8,False
+457,0,2021-08-31,2021-08-31,Livingston North,Manchester Piccadilly,Livingston North - Manchester Piccadilly,Yes,Online,3,19444.0,1024.51,42.10754,95.4,False
+458,0,2021-08-26,2021-08-26,Livingston South,Edinburgh,Livingston South - Edinburgh,Yes,Online,1,23233.0,25.11,1.03208,5.5,False
+459,0,2021-09-24,2021-09-24,Livingston South,Newark North Gate,Livingston South - Newark North Gate,Yes,Online,1,23233.0,429.36,17.6466,63.0,False
+460,0,2021-10-09,2021-10-09,Livingston South,Newark North Gate,Livingston South - Newark North Gate,Yes,Online,1,23233.0,429.36,17.6466,34.6,False
+461,0,2021-09-17,2021-09-17,Livingston South,Peterborough,Livingston South - Peterborough,Yes,Online,1,23233.0,506.7,20.8255,67.5,False
+462,0,2023-05-02,2023-10-02,Llandudno Junction,Manchester Airport,Llandudno Junction - Manchester Airport,Yes,Online,2,24666.0,236.8,9.7326,51.6,False
+465,0,2020-10-02,2020-10-02,London Euston,Bolton,London Euston - Bolton,No,Online,1,29160.0,335.46,13.78736,170.5,False
+466,0,2022-09-13,2022-09-13,London Euston,Crewe,London Euston - Crewe,Yes,Online,3,29423.0,807.96,33.2073,53.6,False
+467,0,2022-05-27,2022-05-27,London Euston,Crewe,London Euston - Crewe,Yes,Online,3,29423.0,807.96,33.2073,86.5,False
+468,0,2023-02-02,2023-02-02,London Euston,Crewe,London Euston - Crewe,Yes,Online,3,29423.0,807.96,33.2073,61.4,False
+469,0,2021-09-12,2021-09-12,London Euston,Crewe,London Euston - Crewe,Yes,Online,3,29423.0,807.96,33.2073,66.5,False
+470,0,2022-02-03,2022-02-03,London Euston,Crewe,London Euston - Crewe,Yes,Online,3,29423.0,807.96,33.2073,77.4,False
+472,0,2022-07-21,2022-07-21,London Euston,Liverpool Lime Street,London Euston - Liverpool Lime Street,Yes,Online,3,20298.0,1010.21,41.51957,209.1,False
+473,0,2023-05-18,2023-05-18,London Euston,Liverpool Lime Street,London Euston - Liverpool Lime Street,Yes,Online,1,20298.0,336.41,13.82629,72.7,False
+474,0,2023-06-07,2023-06-07,London Euston,Liverpool Lime Street,London Euston - Liverpool Lime Street,Yes,Online,1,20298.0,336.41,13.82629,171.3,False
+486,0,2022-03-24,2022-03-24,London Euston,Macclesfield,London Euston - Macclesfield,Yes,Online,1,15757.0,294.61,12.10848,41.5,False
+487,0,2021-09-12,2021-09-12,London Euston,Macclesfield,London Euston - Macclesfield,Yes,Online,3,15757.0,884.04,36.33388,70.8,False
+488,0,2023-07-12,2023-07-12,London Euston,Macclesfield,London Euston - Macclesfield,Yes,Online,1,15757.0,294.61,12.10848,37.0,False
+489,0,2022-10-18,2022-10-18,London Euston,Macclesfield,London Euston - Macclesfield,Yes,Online,3,15757.0,884.04,36.33388,92.1,False
+490,0,2020-03-13,2020-03-13,London Euston,Macclesfield,London Euston - Macclesfield,No,Online,3,15757.0,884.04,36.33388,91.8,False
+491,0,2020-02-26,2020-02-26,London Euston,Macclesfield,London Euston - Macclesfield,Yes,Online,1,15757.0,294.61,12.10848,53.0,False
+492,0,2023-11-30,2023-11-30,London Euston,Macclesfield,London Euston - Macclesfield,Yes,Online,1,15757.0,294.61,12.10848,40.0,False
+493,0,2022-12-10,2022-12-10,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,3,24774.0,955.79,39.28289,95.8,False
+494,0,2020-07-02,2020-07-02,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,1,25096.0,318.66,13.09698,91.1,False
+495,0,2020-07-02,2020-07-02,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,1,25096.0,318.66,13.09698,91.1,False
+496,0,2021-10-20,2021-10-20,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,1,15538.0,318.66,13.09698,66.1,False
+497,0,2022-07-07,2022-07-07,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,No,Online,1,15688.0,318.66,13.09698,144.8,False
+498,0,2023-07-14,2023-07-14,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,1,27757.0,318.66,13.09698,187.7,False
+499,0,2023-04-07,2023-04-07,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,1,15758.0,318.66,13.09698,50.0,False
+501,0,2022-11-22,2022-11-22,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,3,15637.0,955.79,39.28289,233.7,False
+502,0,2023-09-29,2023-09-29,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,1,17768.0,318.66,13.09698,47.0,False
+504,0,2023-10-13,2023-10-13,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,1,15688.0,318.66,13.09698,60.0,False
+506,0,2023-12-01,2023-12-01,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,3,17768.0,955.79,39.28289,173.6,False
+507,0,2022-09-27,2022-09-27,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,3,15637.0,955.79,39.28289,216.1,False
+509,0,2022-05-19,2022-05-20,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,2,22041.0,637.13,26.1859,98.1,False
+510,0,2020-04-11,2020-04-11,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,3,25096.0,955.79,39.28289,210.0,False
+512,0,2021-11-17,2021-11-17,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,3,15608.0,955.79,39.28289,66.7,False
+514,0,2022-03-30,2022-03-30,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,3,15617.0,955.79,39.28289,85.4,False
+515,0,2020-05-03,2020-05-03,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,1,26959.0,318.66,13.09698,152.0,False
+516,0,2022-10-20,2022-10-20,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,1,15538.0,318.66,13.09698,68.6,False
+517,0,2020-05-03,2020-05-03,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,1,28022.0,318.66,13.09698,180.0,False
+520,0,2022-02-14,2022-02-14,London Euston,Manchester Piccadilly,London Euston - Manchester Piccadilly,Yes,Online,1,15688.0,318.66,13.09698,49.2,False
+521,0,2020-10-02,2020-10-02,London Euston,Northampton,London Euston - Northampton,Yes,Online,1,19444.0,106.11,4.36122,27.8,False
+522,0,2021-04-10,2021-04-10,London Euston,Preston (Lancs),London Euston - Preston (Lancs),No,Online,1,14792.0,351.75,14.45685,239.6,False
+523,0,2020-01-20,2020-01-20,London Euston,Preston (Lancs),London Euston - Preston (Lancs),Yes,Online,1,14792.0,351.75,14.45685,162.0,False
+524,0,2021-09-12,2021-09-12,London Euston,Preston (Lancs),London Euston - Preston (Lancs),Yes,Online,3,24720.0,1056.03,43.40263,90.2,False
+525,0,2023-08-06,2023-08-06,London Euston,Runcorn,London Euston - Runcorn,Yes,Online,1,20298.0,317.09,13.0324,72.7,False
+526,0,2020-02-03,2020-02-03,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,14792.0,316.13,12.99277,180.0,False
+527,0,2022-11-02,2022-11-02,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,15538.0,316.13,12.99277,65.8,False
+528,0,2022-03-31,2022-03-31,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,27093.0,316.13,12.99277,68.3,False
+529,0,2022-11-23,2022-11-23,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,15538.0,316.13,12.99277,68.3,False
+530,0,2023-03-11,2023-03-11,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,23933.0,316.13,12.99277,72.3,False
+531,0,2022-05-12,2022-05-12,London Euston,Stockport,London Euston - Stockport,Yes,Online,9,27093.0,2846.06,116.97326,364.7,False
+532,0,2020-09-09,2020-09-09,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,15538.0,948.69,38.99109,285.0,False
+533,0,2021-11-17,2021-11-17,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,15612.0,948.69,38.99109,102.6,False
+534,0,2022-08-12,2022-08-12,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,19444.0,948.69,38.99109,107.6,False
+535,0,2020-10-02,2020-10-02,London Euston,Stockport,London Euston - Stockport,No,Online,2,14792.0,632.56,25.99832,245.0,False
+536,0,2022-11-22,2022-11-22,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,15637.0,948.69,38.99109,233.7,False
+537,0,2023-10-26,2023-10-26,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,15538.0,316.13,12.99277,72.3,False
+538,0,2020-06-03,2020-06-03,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,24651.0,948.69,38.99109,176.0,False
+539,0,2022-09-27,2022-09-27,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,15637.0,948.69,38.99109,216.1,False
+540,0,2020-01-28,2020-01-28,London Euston,Stockport,London Euston - Stockport,Yes,Online,2,21739.0,632.56,25.99832,202.8,False
+541,0,2023-10-25,2023-10-25,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,15538.0,316.13,12.99277,72.3,False
+542,0,2021-11-17,2021-11-17,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,15538.0,316.13,12.99277,35.9,False
+543,0,2023-02-17,2023-02-17,London Euston,Stockport,London Euston - Stockport,No,Online,1,20298.0,316.13,12.99277,169.3,False
+544,0,2020-02-03,2020-02-03,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,14792.0,316.13,12.99277,157.0,False
+545,0,2022-02-02,2022-02-02,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,23933.0,316.13,12.99277,45.7,False
+546,0,2022-03-17,2022-03-17,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,27093.0,948.69,38.99109,214.6,False
+547,0,2023-07-28,2023-07-28,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,15538.0,316.13,12.99277,72.3,False
+548,0,2023-11-01,2023-11-01,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,15612.0,316.13,12.99277,29.8,False
+549,0,2021-11-22,2021-11-22,London Euston,Stockport,London Euston - Stockport,No,Online,1,14792.0,316.13,12.99277,239.1,False
+550,0,2020-11-02,2020-11-02,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,23933.0,948.38,38.9783,304.0,False
+551,0,2020-03-03,2020-03-03,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,24651.0,948.69,38.99109,136.5,False
+552,0,2020-03-15,2020-03-15,London Euston,Stockport,London Euston - Stockport,No,Online,1,14792.0,316.13,12.99277,74.0,False
+553,0,2023-05-06,2023-06-06,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,19444.0,948.38,38.9783,361.7,False
+554,0,2022-09-17,2022-09-17,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,15612.0,316.13,12.99277,54.1,False
+555,0,2022-01-02,2022-01-02,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,23933.0,316.13,12.99277,65.8,False
+556,0,2020-09-14,2020-09-14,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,15538.0,948.69,38.99109,216.1,False
+557,0,2023-09-28,2023-09-28,London Euston,Stockport,London Euston - Stockport,Yes,Agent Assisted,1,27093.0,316.13,12.99277,72.3,False
+558,0,2020-09-03,2020-09-03,London Euston,Stockport,London Euston - Stockport,No,Online,1,14792.0,316.13,12.99277,185.0,False
+559,0,2022-02-21,2022-02-21,London Euston,Stockport,London Euston - Stockport,Yes,Online,1,15538.0,316.13,12.99277,40.0,False
+560,0,2023-03-10,2023-03-10,London Euston,Stockport,London Euston - Stockport,Yes,Online,3,19444.0,948.69,38.99109,95.0,False
+561,0,2022-12-20,2022-12-20,London Euston,Stoke On Trent,London Euston - Stoke On Trent,Yes,Online,3,15637.0,756.33,31.08535,126.6,False
+565,0,2022-07-23,2022-07-23,London Euston,Warrington Bank Quay,London Euston - Warrington Bank Quay,Yes,Online,3,29715.0,918.2,37.73786,218.4,False
+566,0,2021-09-12,2021-09-12,London Euston,Warrington Bank Quay,London Euston - Warrington Bank Quay,Yes,Online,3,29715.0,918.2,37.73786,86.2,False
+574,0,2020-06-02,2020-06-02,London Kings Cross,Newcastle,London Kings Cross - Newcastle,No,Online,1,14792.0,441.98,18.16523,102.0,False
+577,0,2022-10-03,2022-10-03,London Liverpool Street,London St Pancras,London Liverpool Street - London St Pancras,Yes,Online,3,15538.0,274.55,11.28413,35.5,False
+589,0,2022-11-03,2022-11-03,London Liverpool Street,Stansted Airport,London Liverpool Street - Stansted Airport,Yes,Online,1,15538.0,54.39,2.23533,20.7,False
+590,0,2021-02-16,2021-02-18,London Liverpool Street,Ware (Herts),London Liverpool Street - Ware (Herts),Yes,Online,2,30241.0,71.87,2.95391,22.5,False
+592,0,2020-03-03,2020-03-03,London Liverpool Street,Witham,London Liverpool Street - Witham,Yes,Online,1,24812.0,68.93,2.83313,24.2,False
+593,0,2022-08-12,2022-08-12,London Marylebone,Banbury,London Marylebone - Banbury,Yes,Online,1,20298.0,120.52,4.95344,45.3,False
+594,0,2020-03-16,2020-03-16,London Marylebone,South Ruislip,London Marylebone - South Ruislip,Yes,Agent Assisted,2,15601.0,38.36,1.57672,19.1,False
+598,0,2022-08-11,2022-08-11,London Paddington,Bristol Parkway,London Paddington - Bristol Parkway,Yes,Agent Assisted,3,15661.0,552.36,22.70214,174.2,False
+609,0,2023-09-19,2023-09-19,London Paddington,Bristol Parkway,London Paddington - Bristol Parkway,Yes,Online,1,15661.0,184.37,7.57777,58.0,False
+612,0,2022-07-04,2022-07-04,London Paddington,Heathrow Terminal 5 (Rail Station Only),London Paddington - Heathrow Terminal 5 (Rail Station Only),Yes,Online,1,30241.0,29.6,1.21674,25.0,False
+617,0,2022-09-02,2022-09-02,London Paddington,Newport (South Wales),London Paddington - Newport (South Wales),Yes,Online,3,27093.0,659.3,27.09707,107.2,False
+618,0,2022-09-21,2022-09-23,London Paddington,Newport (South Wales),London Paddington - Newport (South Wales),Yes,Online,2,14792.0,439.61,18.0678,253.0,False
+619,0,2022-10-19,2022-10-19,London Paddington,Newport (South Wales),London Paddington - Newport (South Wales),Yes,Online,1,20298.0,219.77,9.03236,126.5,False
+620,0,2023-04-07,2023-04-07,London Paddington,Newport (South Wales),London Paddington - Newport (South Wales),Yes,Online,1,15757.0,219.77,9.03236,50.2,False
+621,0,2020-01-29,2020-01-29,London Paddington,Newton Abbot,London Paddington - Newton Abbot,Yes,Online,2,15661.0,602.1,24.74612,116.4,False
+622,0,2020-02-14,2020-02-14,London Paddington,Newton Abbot,London Paddington - Newton Abbot,Yes,Online,1,15661.0,301.23,12.3807,80.3,False
+623,0,2022-07-13,2022-07-13,London Paddington,Newton Abbot,London Paddington - Newton Abbot,Yes,Online,3,15661.0,903.33,37.12682,231.8,False
+624,0,2020-02-26,2020-02-26,London Paddington,Newton Abbot,London Paddington - Newton Abbot,Yes,Online,3,15661.0,903.33,37.12682,116.4,False
+625,0,2022-09-22,2022-09-22,London Paddington,Newton Abbot,London Paddington - Newton Abbot,Yes,Online,3,15661.0,903.33,37.12682,213.6,False
+626,0,2021-09-22,2021-09-22,London Paddington,Newton Abbot,London Paddington - Newton Abbot,Yes,Online,1,15661.0,301.23,12.3807,59.7,False
+627,0,2021-09-16,2021-09-16,London Paddington,Newton Abbot,London Paddington - Newton Abbot,Yes,Online,3,15661.0,903.33,37.12682,161.4,False
+628,0,2021-09-12,2021-09-12,London Paddington,Newton Abbot,London Paddington - Newton Abbot,Yes,Online,1,15661.0,301.23,12.3807,58.7,False
+629,0,2022-06-15,2022-06-15,London Paddington,Newton Abbot,London Paddington - Newton Abbot,Yes,Online,3,15661.0,903.33,37.12682,205.0,False
+631,0,2020-09-01,2020-09-01,London St Pancras,Chesterfield,London St Pancras - Chesterfield,Yes,Online,2,16887.0,477.65,19.63161,150.0,False
+632,0,2020-01-28,2020-01-28,London St Pancras,Chesterfield,London St Pancras - Chesterfield,Yes,Online,2,16887.0,477.65,19.63161,150.0,False
+633,0,2020-05-10,2020-05-10,London St Pancras,Chesterfield,London St Pancras - Chesterfield,Yes,Online,3,16887.0,716.38,29.44311,134.0,False
+634,0,2020-08-09,2020-08-09,London St Pancras,Chesterfield,London St Pancras - Chesterfield,Yes,Online,1,16887.0,238.72,9.81149,79.0,False
+635,0,2020-02-18,2020-02-18,London St Pancras,Chesterfield,London St Pancras - Chesterfield,Yes,Online,2,16887.0,477.65,19.63161,134.0,False
+636,0,2022-10-20,2022-10-20,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,3,14792.0,119.13,4.89608,38.2,False
+637,0,2022-02-12,2022-02-12,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,3,14792.0,119.13,4.89608,38.2,False
+638,0,2023-07-20,2023-07-20,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,1,14792.0,39.95,1.64176,20.2,False
+639,0,2020-06-03,2020-06-03,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,1,14792.0,39.95,1.64176,17.9,False
+640,0,2022-09-30,2022-09-30,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,3,14792.0,119.13,4.89608,38.2,False
+641,0,2022-03-02,2022-03-02,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,3,14792.0,119.13,4.89608,36.8,False
+642,0,2022-08-12,2022-08-12,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,3,14792.0,119.13,4.89608,38.2,False
+643,0,2022-11-24,2022-11-24,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,3,14792.0,119.13,4.89608,38.2,False
+644,0,2023-02-08,2023-02-08,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,1,14792.0,39.95,1.64176,20.2,False
+645,0,2021-07-10,2021-07-10,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,1,14792.0,39.95,1.64176,23.7,False
+646,0,2022-05-25,2022-05-25,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,3,14792.0,119.13,4.89608,38.2,False
+647,0,2023-07-27,2023-07-27,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,1,14792.0,39.95,1.64176,20.2,False
+648,0,2023-09-06,2023-09-06,London St Pancras,Ebbsfleet International,London St Pancras - Ebbsfleet International,Yes,Online,1,14792.0,39.95,1.64176,20.2,False
+650,0,2023-12-14,2023-12-14,London St Pancras International,Ebbsfleet International Station,London St Pancras International - Ebbsfleet International Station,Yes,Online,1,14792.0,36.64,1.50602,0.0,True
+651,0,2023-06-28,2023-06-28,London St-Pancras,Brussels-Midi,London St-Pancras - Brussels-Midi,No,Online,2,14792.0,753.35,4.52009,488.0,True
+655,0,2022-03-02,2022-03-02,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,14792.0,910.87,5.46522,436.0,True
+657,0,2022-10-18,2022-10-20,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,15538.0,910.87,5.46522,436.0,True
+659,0,2022-10-18,2022-10-20,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,14792.0,910.87,5.46522,436.0,True
+660,0,2022-04-01,2022-05-01,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,14792.0,910.87,5.46522,436.0,True
+662,0,2020-05-03,2020-05-03,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,29209.0,910.87,5.46522,426.0,True
+663,0,2020-01-28,2020-01-28,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,Yes,Online,1,15661.0,461.12,18.95217,103.0,True
+664,0,2021-10-12,2021-10-12,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,14792.0,910.87,5.46522,436.0,True
+665,0,2020-01-20,2020-01-22,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,29209.0,910.87,5.46522,259.0,True
+667,0,2020-01-20,2020-01-23,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,29209.0,910.87,5.46522,426.0,True
+668,0,2023-02-24,2023-02-24,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,14792.0,910.87,5.46522,488.0,True
+670,0,2023-01-02,2023-02-02,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,14799.0,910.87,5.46522,436.0,True
+671,0,2022-03-11,2022-04-11,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,14792.0,910.87,5.46522,436.0,True
+672,0,2022-10-03,2022-11-03,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,14792.0,910.87,5.46522,436.0,True
+673,0,2023-01-02,2023-02-02,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,15661.0,910.87,5.46522,369.0,True
+676,0,2021-05-10,2021-05-10,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,Yes,Online,1,14792.0,461.12,18.95217,200.0,True
+678,0,2020-01-28,2020-01-28,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,Yes,Online,2,14792.0,877.2,5.26323,244.0,True
+679,0,2023-01-17,2023-01-17,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,1,14792.0,461.12,18.95217,245.0,True
+681,0,2022-11-24,2022-11-24,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,Yes,Online,2,27093.0,922.25,37.90434,230.0,True
+683,0,2023-09-05,2023-12-05,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,14792.0,910.87,5.46522,488.0,True
+685,0,2021-11-10,2021-10-15,London St-Pancras,Paris Gare du Nord,London St-Pancras - Paris Gare du Nord,No,Online,2,29209.0,910.87,5.46522,449.0,True
+687,0,2021-10-20,2021-10-20,London Victoria,Bearsted,London Victoria - Bearsted,Yes,Online,1,14792.0,64.19,2.63827,25.3,False
+688,0,2020-10-01,2020-10-01,London Victoria,Bearsted,London Victoria - Bearsted,Yes,Online,1,14792.0,64.19,2.63827,24.7,False
+689,0,2022-11-03,2022-11-03,London Victoria,Bearsted,London Victoria - Bearsted,Yes,Online,1,14792.0,64.19,2.63827,26.3,False
+697,0,2021-08-12,2021-09-12,Macclesfield,London Euston,Macclesfield - London Euston,Yes,Online,2,15757.0,589.43,24.22539,91.9,False
+698,0,2022-04-13,2022-04-13,Macclesfield,London Euston,Macclesfield - London Euston,Yes,Online,1,20047.0,294.82,12.11691,66.7,False
+699,0,2023-03-27,2023-03-27,Macclesfield,London Euston,Macclesfield - London Euston,Yes,Online,1,15757.0,294.82,12.11691,70.7,False
+700,0,2022-07-12,2022-08-12,Macclesfield,London Euston,Macclesfield - London Euston,Yes,Online,2,15757.0,589.43,24.22539,95.4,False
+701,0,2020-02-25,2020-02-26,Macclesfield,London Euston,Macclesfield - London Euston,Yes,Online,2,29432.0,589.43,24.22539,254.0,False
+702,0,2020-02-25,2020-02-25,Macclesfield,London Euston,Macclesfield - London Euston,Yes,Online,1,15757.0,294.82,12.11691,177.0,False
+703,0,2022-12-07,2022-07-13,Macclesfield,London Euston,Macclesfield - London Euston,Yes,Online,2,15757.0,589.43,24.22539,95.4,False
+704,0,2022-11-10,2022-12-10,Macclesfield,London Euston,Macclesfield - London Euston,Yes,Online,2,15757.0,589.43,24.22539,95.4,False
+709,0,2023-04-12,2023-04-12,Macclesfield,Newport (South Wales),Macclesfield - Newport (South Wales),Yes,Online,1,15757.0,257.3,10.57521,43.7,False
+710,0,2023-11-27,2023-11-27,Macclesfield,Newport (South Wales),Macclesfield - Newport (South Wales),Yes,Online,1,15757.0,257.3,10.57521,62.0,False
+711,0,2023-03-24,2023-03-24,Manchester Airport,Colwyn Bay,Manchester Airport - Colwyn Bay,Yes,Online,1,24666.0,110.92,4.55871,42.1,False
+712,0,2023-04-14,2023-04-14,Manchester Airport,Colwyn Bay,Manchester Airport - Colwyn Bay,Yes,Online,1,24666.0,110.92,4.55871,25.6,False
+713,0,2023-03-17,2023-03-17,Manchester Airport,Colwyn Bay,Manchester Airport - Colwyn Bay,Yes,Online,1,24666.0,110.92,4.55871,42.1,False
+714,0,2023-05-14,2023-05-14,Manchester Airport,Colwyn Bay,Manchester Airport - Colwyn Bay,Yes,Online,1,24666.0,110.92,4.55871,28.5,False
+715,0,2022-11-24,2022-11-24,Manchester Airport,Crewe,Manchester Airport - Crewe,Yes,Online,1,20298.0,45.44,1.86773,13.1,False
+717,0,2023-11-16,2023-11-16,Manchester Airport,Edinburgh,Manchester Airport - Edinburgh,Yes,Online,1,15366.0,353.22,14.51728,57.9,False
+718,0,2023-09-11,2023-09-11,Manchester Airport,Edinburgh,Manchester Airport - Edinburgh,Yes,Online,1,15366.0,353.22,14.51728,51.5,False
+722,0,2023-02-17,2023-02-17,Manchester Airport,Motherwell,Manchester Airport - Motherwell,Yes,Online,1,15538.0,336.98,13.84968,33.3,False
+726,0,2021-08-31,2021-08-31,Manchester Oxford Road,Livingston North,Manchester Oxford Road - Livingston North,Yes,Online,4,24784.0,1360.77,55.92746,165.2,False
+727,0,2021-12-13,2021-12-13,Manchester Oxford Road,Livingston North,Manchester Oxford Road - Livingston North,Yes,Online,4,24784.0,1360.77,55.92746,87.0,False
+728,0,2022-05-07,2022-06-07,Manchester Oxford Road,Thetford,Manchester Oxford Road - Thetford,Yes,Online,2,15617.0,550.53,22.62696,110.0,False
+729,0,2023-10-10,2023-12-10,Manchester Oxford Road,Thetford,Manchester Oxford Road - Thetford,Yes,Online,2,27757.0,550.53,22.62696,126.3,False
+730,0,2022-02-16,2022-02-18,Manchester Piccadilly,Basingstoke,Manchester Piccadilly - Basingstoke,Yes,Online,2,24775.0,650.13,26.72019,102.5,False
+749,0,2022-07-20,2022-07-20,Manchester Piccadilly,Cardiff Central,Manchester Piccadilly - Cardiff Central,Yes,Online,3,27756.0,889.96,36.57744,77.5,False
+750,0,2022-03-08,2022-03-08,Manchester Piccadilly,Edinburgh,Manchester Piccadilly - Edinburgh,Yes,Online,1,15366.0,345.46,14.19861,45.6,False
+754,0,2022-05-13,2022-05-13,Manchester Piccadilly,Edinburgh,Manchester Piccadilly - Edinburgh,Yes,Online,3,24674.0,1035.81,42.57162,66.7,False
+757,0,2021-12-12,2021-12-12,Manchester Piccadilly,Edinburgh,Manchester Piccadilly - Edinburgh,Yes,Online,2,19444.0,690.93,28.39722,83.1,False
+760,0,2020-07-01,2020-07-01,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,27757.0,696.6,28.63035,58.3,False
+761,0,2020-04-02,2020-04-02,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,27757.0,696.6,28.63035,96.35,False
+762,0,2022-09-05,2022-11-05,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+765,0,2020-01-28,2020-01-28,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,27757.0,696.6,28.63035,58.3,False
+766,0,2022-07-18,2022-07-22,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+767,0,2020-11-02,2020-11-02,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,27757.0,696.6,28.63035,58.3,False
+768,0,2022-06-06,2022-09-06,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+769,0,2022-06-06,2022-06-06,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24784.0,696.6,28.63035,94.0,False
+770,0,2022-02-08,2022-05-08,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+771,0,2022-07-09,2022-09-09,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+772,0,2020-01-21,2020-01-21,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,27757.0,696.6,28.63035,58.3,False
+773,0,2020-02-19,2020-02-19,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,27757.0,696.6,28.63035,96.35,False
+774,0,2020-02-03,2020-02-03,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,27757.0,696.6,28.63035,96.35,False
+777,0,2022-03-29,2022-03-31,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+779,0,2020-01-14,2020-01-14,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,27757.0,696.6,28.63035,58.3,False
+780,0,2022-03-05,2022-05-05,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+781,0,2022-02-18,2022-02-18,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,15538.0,696.22,28.61453,63.4,False
+783,0,2022-09-20,2022-09-21,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+784,0,2022-05-13,2022-05-13,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,3,25244.0,1044.71,42.93761,71.4,False
+785,0,2022-03-10,2022-03-10,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+786,0,2021-04-07,2021-04-07,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,1,20645.0,348.11,14.30726,63.4,False
+787,0,2022-06-20,2022-06-22,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+788,0,2022-06-27,2022-06-30,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+789,0,2022-08-15,2022-08-19,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+790,0,2022-08-22,2022-08-26,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,2,24775.0,696.6,28.63035,149.8,False
+791,0,2023-01-23,2023-01-23,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,1,24784.0,348.11,14.30726,52.7,False
+792,0,2020-10-02,2020-11-02,Manchester Piccadilly,Glasgow Central,Manchester Piccadilly - Glasgow Central,Yes,Online,3,25096.0,1044.33,42.92179,56.1,False
+796,0,2022-10-11,2022-10-11,Manchester Piccadilly,Leeds,Manchester Piccadilly - Leeds,Yes,Online,2,24784.0,136.17,5.5967,37.0,False
+797,0,2022-03-29,2022-03-29,Manchester Piccadilly,Livingston North,Manchester Piccadilly - Livingston North,Yes,Online,2,24784.0,683.11,28.076,90.3,False
+799,0,2020-10-02,2020-10-02,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,1,29160.0,318.47,13.08892,183.0,False
+800,0,2020-03-03,2020-03-03,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,4,29715.0,1274.25,52.37181,259.0,False
+801,0,2020-01-28,2020-01-28,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,2,17768.0,637.13,26.1859,198.05,False
+803,0,2023-07-13,2023-07-13,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,1,27757.0,318.47,13.08892,43.0,False
+804,0,2022-05-25,2022-05-25,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,1,27093.0,318.47,13.08892,161.9,False
+806,0,2020-02-18,2020-02-18,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,2,17768.0,637.13,26.1859,245.0,False
+807,0,2020-05-03,2020-05-03,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,1,28022.0,318.47,13.08892,91.1,False
+808,0,2020-05-03,2020-05-03,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,1,26959.0,318.47,13.08892,91.1,False
+812,0,2023-10-01,2023-10-01,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,2,20298.0,636.93,26.17784,68.6,False
+813,0,2022-10-17,2022-10-17,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,1,15538.0,318.47,13.08892,184.7,False
+814,0,2022-02-03,2022-02-03,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,2,24784.0,637.13,26.1859,369.4,False
+815,0,2023-09-10,2023-09-10,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,1,15688.0,318.47,13.08892,47.0,False
+816,0,2020-01-15,2020-01-15,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,2,25944.0,637.13,26.1859,174.05,False
+818,0,2022-12-07,2022-12-07,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,2,24544.0,637.13,26.1859,369.4,False
+821,0,2022-04-10,2022-04-10,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,2,15538.0,637.13,26.1859,98.1,False
+822,0,2023-10-01,2023-10-01,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,2,15589.0,636.93,26.17784,68.6,False
+824,0,2020-06-02,2020-06-02,Manchester Piccadilly,London Euston,Manchester Piccadilly - London Euston,Yes,Online,2,25096.0,637.13,26.1859,245.0,False
+885,0,2021-07-10,2021-07-10,Manchester Piccadilly,Milton Keynes Central,Manchester Piccadilly - Milton Keynes Central,Yes,Online,3,24666.0,737.54,30.31277,155.9,False
+887,0,2023-10-02,2023-10-02,Manchester Piccadilly,Motherwell,Manchester Piccadilly - Motherwell,Yes,Online,1,15758.0,329.22,13.53105,33.9,False
+888,0,2020-04-02,2020-04-02,Manchester Piccadilly,Motherwell,Manchester Piccadilly - Motherwell,Yes,Online,2,15758.0,658.89,27.08022,49.6,False
+890,0,2023-07-06,2023-07-06,Manchester Piccadilly,Newport (South Wales),Manchester Piccadilly - Newport (South Wales),Yes,Online,1,24784.0,280.95,11.54723,82.9,False
+891,0,2023-08-15,2023-08-15,Manchester Piccadilly,Newport (South Wales),Manchester Piccadilly - Newport (South Wales),Yes,Online,1,24784.0,280.95,11.54723,44.0,False
+894,0,2023-09-10,2023-09-10,Manchester Piccadilly,Newport (South Wales),Manchester Piccadilly - Newport (South Wales),Yes,Online,2,24784.0,562.76,23.12947,95.2,False
+895,0,2022-02-14,2022-02-14,Manchester Piccadilly,Newport (South Wales),Manchester Piccadilly - Newport (South Wales),Yes,Online,2,24784.0,562.76,23.12947,86.7,False
+896,0,2023-05-17,2023-05-17,Manchester Piccadilly,Newport (South Wales),Manchester Piccadilly - Newport (South Wales),Yes,Online,2,24784.0,562.76,23.12947,95.2,False
+897,0,2023-12-04,2023-04-13,Manchester Piccadilly,Newport (South Wales),Manchester Piccadilly - Newport (South Wales),Yes,Online,2,15758.0,562.76,23.12947,95.2,False
+899,0,2022-05-04,2022-07-04,Manchester Piccadilly,Paisley Gilmour Street,Manchester Piccadilly - Paisley Gilmour Street,Yes,Online,4,24775.0,1432.04,58.85695,164.2,False
+900,0,2022-03-15,2022-03-17,Manchester Piccadilly,Paisley Gilmour Street,Manchester Piccadilly - Paisley Gilmour Street,Yes,Online,2,24775.0,716.02,29.42847,98.3,False
+901,0,2022-01-18,2022-01-19,Manchester Piccadilly,Paisley Gilmour Street,Manchester Piccadilly - Paisley Gilmour Street,Yes,Online,2,24775.0,716.02,29.42847,94.7,False
+902,0,2021-02-08,2021-04-08,Manchester Piccadilly,Paisley Gilmour Street,Manchester Piccadilly - Paisley Gilmour Street,Yes,Online,2,24775.0,716.02,29.42847,94.7,False
+903,0,2020-01-13,2020-01-17,Manchester Piccadilly,Rye House,Manchester Piccadilly - Rye House,Yes,Online,2,24688.0,640.24,26.31383,241.0,False
+905,0,2022-07-07,2022-07-07,Manchester Piccadilly,Stalybridge,Manchester Piccadilly - Stalybridge,Yes,Online,1,15688.0,11.92,0.48993,4.6,False
+906,0,2021-09-30,2021-09-30,Manchester Piccadilly,Stoke On Trent,Manchester Piccadilly - Stoke On Trent,Yes,Online,1,15637.0,70.92,2.91485,10.1,False
+908,0,2022-03-08,2022-03-08,Manchester Piccadilly,Thetford,Manchester Piccadilly - Thetford,Yes,Online,1,15617.0,274.48,11.28125,43.0,False
+911,0,2023-12-21,2023-12-21,Manchester Piccadilly Station,Motherwell Station,Manchester Piccadilly Station - Motherwell Station,Yes,Online,1,15758.0,339.76,13.96421,0.0,False
+913,0,2022-11-23,2022-11-23,Manchester Victoria,Bolton,Manchester Victoria - Bolton,Yes,Online,1,24784.0,24.04,0.988,4.9,False
+916,0,2023-06-23,2023-06-24,Manchester Victoria,Liverpool Lime Street,Manchester Victoria - Liverpool Lime Street,Yes,Online,2,24784.0,109.65,4.50654,22.5,False
+920,0,2022-01-11,2022-01-11,Manchester Victoria,Newcastle,Manchester Victoria - Newcastle,Yes,Online,2,24784.0,460.06,18.90848,127.3,False
+923,0,2021-04-19,2021-04-19,Melton Mowbray,Glasgow Central,Melton Mowbray - Glasgow Central,Yes,Online,1,23233.0,483.86,19.88649,119.2,False
+924,0,2021-06-20,2021-06-21,Melton Mowbray,Glasgow Central,Melton Mowbray - Glasgow Central,Yes,Online,1,23233.0,483.86,19.88649,89.8,False
+925,0,2021-07-12,2021-09-12,Middlesbrough,Blackburn,Middlesbrough - Blackburn,Yes,Online,2,20367.0,306.73,12.60676,89.4,False
+926,0,2021-11-22,2021-11-25,Middlesbrough,Blackburn,Middlesbrough - Blackburn,Yes,Online,2,20367.0,306.73,12.60676,89.4,False
+928,0,2022-01-17,2022-01-17,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,342.0,False
+929,0,2022-02-14,2022-02-18,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,342.0,False
+930,0,2022-07-02,2022-11-02,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,342.0,False
+931,0,2022-02-21,2022-02-25,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,342.0,False
+932,0,2022-10-01,2022-10-01,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,342.0,False
+933,0,2022-03-14,2022-03-18,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,348.0,False
+934,0,2022-01-31,2022-03-02,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,342.0,False
+935,0,2022-01-24,2022-01-28,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,342.0,False
+936,0,2022-07-03,2022-09-03,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,348.0,False
+937,0,2022-04-01,2022-07-01,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,342.0,False
+938,0,2022-02-28,2022-04-03,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,342.0,False
+939,0,2022-02-23,2022-02-25,Middlesbrough,West Drayton,Middlesbrough - West Drayton,Yes,Online,2,20367.0,802.13,32.96756,342.0,False
+945,0,2023-04-20,2023-04-20,Moreton (Merseyside),London Euston,Moreton (Merseyside) - London Euston,Yes,Online,2,20298.0,704.06,28.93689,347.8,False
+948,0,2022-05-12,2022-05-12,Motherwell,Cardiff Central,Motherwell - Cardiff Central,No,Online,2,15758.0,1210.34,49.74496,218.5,False
+950,0,2022-12-05,2022-05-13,Motherwell,Manchester Piccadilly,Motherwell - Manchester Piccadilly,Yes,Online,2,26717.0,658.89,27.08022,149.8,False
+951,0,2020-01-14,2020-01-15,Motherwell,Manchester Piccadilly,Motherwell - Manchester Piccadilly,Yes,Online,2,27448.0,658.89,27.08022,70.55,False
+970,0,2022-05-12,2022-05-12,Motherwell,Newport (South Wales),Motherwell - Newport (South Wales),No,Online,1,15758.0,589.54,24.23024,218.5,False
+972,0,2023-12-19,2023-12-19,Motherwell Station,Manchester Piccadilly Station,Motherwell Station - Manchester Piccadilly Station,Yes,Online,1,15758.0,339.79,13.96545,37.4,False
+973,0,2021-08-16,2021-08-16,Newark North Gate,Edinburgh,Newark North Gate - Edinburgh,Yes,Online,1,23233.0,396.53,16.29733,80.0,False
+974,0,2023-11-10,2023-11-10,Newcastle,Glasgow Central,Newcastle - Glasgow Central,No,Online,1,15758.0,242.63,9.97206,48.4,False
+998,0,2022-07-04,2022-07-04,Newport (South Wales),Bearsted,Newport (South Wales) - Bearsted,Yes,Online,1,14792.0,283.96,11.67068,54.2,False
+1004,0,2022-08-09,2022-08-09,Newport (South Wales),Ebbsfleet International,Newport (South Wales) - Ebbsfleet International,Yes,Online,1,14792.0,276.52,11.36515,133.2,False
+1005,0,2022-09-15,2022-09-15,Newport (South Wales),Ebbsfleet International,Newport (South Wales) - Ebbsfleet International,Yes,Online,1,14792.0,276.52,11.36515,133.2,False
+1007,0,2022-10-10,2022-10-10,Newport (South Wales),Hayes & Harlington,Newport (South Wales) - Hayes & Harlington,Yes,Online,1,15538.0,200.65,8.2469,45.6,False
+1008,0,2023-11-29,2023-11-29,Newport (South Wales),London Paddington,Newport (South Wales) - London Paddington,Yes,Online,1,15688.0,219.84,9.03545,50.2,False
+1009,0,2023-11-29,2023-11-29,Newport (South Wales),London Paddington,Newport (South Wales) - London Paddington,Yes,Online,1,15757.0,219.84,9.03545,49.0,False
+1013,0,2023-04-18,2023-04-21,Newport (South Wales),London Paddington,Newport (South Wales) - London Paddington,Yes,Online,2,31752.0,439.61,18.0678,274.0,False
+1014,0,2023-06-07,2023-06-07,Newport (South Wales),Macclesfield,Newport (South Wales) - Macclesfield,Yes,Online,1,15757.0,257.76,10.59379,77.6,False
+1015,0,2023-08-15,2023-08-15,Newport (South Wales),Manchester Piccadilly,Newport (South Wales) - Manchester Piccadilly,Yes,Online,1,24784.0,281.81,11.58225,35.0,False
+1017,0,2022-10-20,2022-10-20,Newport (South Wales),Moreton (Merseyside),Newport (South Wales) - Moreton (Merseyside),Yes,Online,1,20298.0,258.84,10.63847,74.1,False
+1020,0,2022-02-14,2022-02-14,Newport (South Wales),Stockport,Newport (South Wales) - Stockport,Yes,Online,1,15538.0,279.27,11.47804,75.5,False
+1021,0,2022-10-02,2022-10-02,Newport (South Wales),Stockport,Newport (South Wales) - Stockport,Yes,Online,1,27093.0,279.27,11.47804,26.5,False
+1022,0,2022-02-14,2022-02-14,Newport (South Wales),Stockport,Newport (South Wales) - Stockport,Yes,Online,3,19444.0,837.47,34.41994,53.0,False
+1023,0,2022-02-11,2022-02-11,Newport (South Wales),Stockport,Newport (South Wales) - Stockport,Yes,Online,3,19444.0,837.47,34.41994,105.8,False
+1026,0,2022-11-21,2022-11-23,Newton Abbot,Heathrow Terminal 5 (Rail Station Only),Newton Abbot - Heathrow Terminal 5 (Rail Station Only),Yes,Online,2,15661.0,548.94,22.56152,178.4,False
+1027,0,2020-11-02,2020-11-02,Newton Abbot,Heathrow Terminal 5 (Rail Station Only),Newton Abbot - Heathrow Terminal 5 (Rail Station Only),Yes,Online,1,15661.0,274.57,11.28483,102.3,False
+1028,0,2022-11-10,2022-12-10,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,141.4,False
+1029,0,2023-05-16,2023-05-17,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,149.7,False
+1030,0,2021-08-12,2021-09-12,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,109.0,False
+1031,0,2023-07-29,2023-07-30,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,113.2,False
+1032,0,2023-09-21,2023-09-22,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,149.7,False
+1033,0,2023-09-26,2023-09-27,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,149.7,False
+1034,0,2023-04-18,2023-04-18,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,149.7,False
+1035,0,2023-09-03,2023-09-03,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15527.0,602.1,24.74612,113.2,False
+1036,0,2023-11-29,2023-11-30,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,149.7,False
+1037,0,2023-07-03,2023-10-03,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,141.4,False
+1038,0,2022-07-12,2022-08-12,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,141.4,False
+1039,0,2023-06-20,2023-06-20,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,149.7,False
+1040,0,2022-10-17,2022-10-18,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,141.4,False
+1041,0,2023-10-01,2023-11-01,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,4,15661.0,1204.19,49.49223,141.4,False
+1042,0,2022-08-09,2022-09-09,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,141.4,False
+1043,0,2023-03-27,2023-03-27,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,149.7,False
+1044,0,2021-10-18,2021-10-18,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,142.2,False
+1045,0,2023-01-31,2023-02-02,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,141.4,False
+1046,0,2023-02-10,2023-03-10,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,149.7,False
+1047,0,2023-05-06,2023-07-06,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,149.7,False
+1048,0,2023-05-04,2023-06-04,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,149.7,False
+1049,0,2022-05-26,2022-05-27,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15661.0,602.1,24.74612,141.4,False
+1050,0,2022-04-10,2022-04-10,Newton Abbot,London Paddington,Newton Abbot - London Paddington,Yes,Online,2,15527.0,602.1,24.74612,141.4,False
+1057,0,2022-12-05,2022-05-13,Nitshill,Manchester Piccadilly,Nitshill - Manchester Piccadilly,Yes,Online,2,27715.0,708.71,29.12793,98.3,False
+1058,0,2020-02-13,2020-02-13,Northampton,Stockport,Northampton - Stockport,Yes,Agent Assisted,1,19444.0,216.22,8.88667,78.8,False
+1060,0,2020-04-03,2020-04-03,Paris Est,Strasbourg,Paris Est - Strasbourg,Unknown,Agent Assisted,1,27633.0,489.19,2.93513,70.54,True
+1061,0,2023-01-17,2023-01-17,Paris Gare De Lyon,Frankfurt (Main) Hbf,Paris Gare De Lyon - Frankfurt (Main) Hbf,Unknown,Agent Assisted,1,14792.0,569.34,3.41604,79.72,True
+1062,0,2020-11-12,2020-11-12,Paris Montparnasse,Dax,Paris Montparnasse - Dax,Unknown,Agent Assisted,1,26959.0,727.64,4.36586,76.38,True
+1063,0,2021-09-08,2021-09-08,Peterborough,Edinburgh,Peterborough - Edinburgh,Yes,Online,1,23233.0,475.28,19.5341,66.0,False
+1064,0,2021-08-23,2021-08-23,Peterborough,Edinburgh,Peterborough - Edinburgh,Yes,Online,1,23233.0,475.28,19.5341,66.0,False
+1065,0,2021-07-19,2021-07-23,Peterborough,Glasgow Queen Street,Peterborough - Glasgow Queen Street,Yes,Online,2,23233.0,1034.5,42.51802,193.5,False
+1066,0,2021-07-26,2021-07-26,Peterborough,Glasgow Queen Street,Peterborough - Glasgow Queen Street,No,Online,1,23233.0,517.67,21.27626,138.0,False
+1067,0,2021-01-06,2021-01-06,Peterborough,Glasgow Queen Street,Peterborough - Glasgow Queen Street,No,Online,1,23233.0,517.67,21.27626,105.5,False
+1068,0,2021-12-07,2021-12-07,Peterborough,Glasgow Queen Street,Peterborough - Glasgow Queen Street,Yes,Online,1,23233.0,517.67,21.27626,66.0,False
+1069,0,2021-10-05,2021-10-05,Peterborough,Glasgow Queen Street,Peterborough - Glasgow Queen Street,Yes,Online,1,23233.0,517.67,21.27626,56.0,False
+1070,0,2021-06-14,2021-06-14,Peterborough,Glasgow Queen Street,Peterborough - Glasgow Queen Street,Yes,Online,1,23233.0,517.67,21.27626,66.0,False
+1071,0,2021-06-28,2021-06-28,Peterborough,Glasgow Queen Street,Peterborough - Glasgow Queen Street,Yes,Online,1,23233.0,517.67,21.27626,66.0,False
+1072,0,2021-07-06,2021-07-06,Peterborough,Glasgow Queen Street,Peterborough - Glasgow Queen Street,Yes,Online,1,23233.0,517.67,21.27626,66.0,False
+1073,0,2021-02-08,2021-02-08,Peterborough,Glasgow Queen Street,Peterborough - Glasgow Queen Street,Yes,Online,1,23233.0,517.67,21.27626,66.0,False
+1074,0,2021-06-09,2021-06-09,Peterborough,Livingston South,Peterborough - Livingston South,Yes,Online,1,23233.0,507.9,20.87458,55.5,False
+1075,0,2021-09-13,2021-09-13,Peterborough,Livingston South,Peterborough - Livingston South,Yes,Online,1,23233.0,507.9,20.87458,55.5,False
+1076,0,2021-06-09,2021-10-09,Peterborough,Livingston South,Peterborough - Livingston South,Yes,Online,2,23233.0,1014.6,41.70007,195.0,False
+1077,0,2021-09-27,2021-09-27,Peterborough,Livingston South,Peterborough - Livingston South,Yes,Online,1,23233.0,507.9,20.87458,61.5,False
+1078,0,2021-09-20,2021-09-20,Peterborough,Livingston South,Peterborough - Livingston South,Yes,Online,1,23233.0,507.9,20.87458,61.5,False
+1081,0,2020-02-20,2020-02-20,Preston (Lancs),London Euston,Preston (Lancs) - London Euston,No,Online,3,14792.0,1056.81,43.4347,229.0,False
+1082,0,2021-04-10,2021-04-10,Preston (Lancs),London Euston,Preston (Lancs) - London Euston,No,Online,1,14792.0,352.53,14.48892,113.9,False
+1083,0,2020-02-20,2020-02-20,Preston (Lancs),London Euston,Preston (Lancs) - London Euston,No,Online,3,14792.0,1056.81,43.4347,229.0,False
+1084,0,2020-02-20,2020-02-20,Preston (Lancs),London Euston,Preston (Lancs) - London Euston,No,Online,3,14792.0,1056.81,43.4347,229.0,False
+1085,0,2020-02-20,2020-02-20,Preston (Lancs),Manchester Victoria,Preston (Lancs) - Manchester Victoria,Yes,Online,3,19444.0,170.43,7.00451,21.3,False
+1086,0,2020-02-21,2020-02-21,Preston (Lancs),Manchester Victoria,Preston (Lancs) - Manchester Victoria,Yes,Online,3,24784.0,170.43,7.00451,21.3,False
+1087,0,2023-06-12,2023-06-12,Reading,London Paddington,Reading - London Paddington,Yes,Online,1,15661.0,64.1,2.6347,23.9,False
+1094,0,2023-06-06,2023-06-06,Runcorn,London Euston,Runcorn - London Euston,Yes,Online,1,20298.0,318.97,13.10964,196.3,False
+1095,0,2020-02-13,2020-02-14,Runcorn,London Euston,Runcorn - London Euston,Yes,Online,2,20298.0,636.06,26.14204,92.1,False
+1103,0,2021-11-11,2021-11-11,Rye House,Tottenham Hale,Rye House - Tottenham Hale,Yes,Online,3,23933.0,75.91,3.11991,24.6,False
+1104,0,2021-12-16,2021-12-16,Rye House,Tottenham Hale,Rye House - Tottenham Hale,Yes,Online,3,23933.0,75.91,3.11991,24.6,False
+1105,0,2021-11-11,2021-11-11,Rye House,Tottenham Hale,Rye House - Tottenham Hale,Yes,Online,1,23933.0,25.16,1.03397,12.3,False
+1106,0,2020-02-14,2020-02-14,Rye House,Walkden,Rye House - Walkden,Yes,Online,2,24688.0,655.24,26.93018,225.15,False
+1107,0,2020-07-02,2020-07-02,Rye House,Walkden,Rye House - Walkden,Yes,Online,1,24688.0,327.08,13.44299,97.3,False
+1128,0,2022-07-21,2022-07-21,St Pancras International,Paris Gare Du Nord,St Pancras International - Paris Gare Du Nord,Unknown,Agent Assisted,1,15538.0,461.12,2.76674,600.0,True
+1129,0,2022-02-25,2022-02-25,Stalybridge,London Euston,Stalybridge - London Euston,Yes,Online,1,15688.0,314.15,12.91162,66.1,False
+1130,0,2022-02-14,2022-02-14,Stalybridge,London Euston,Stalybridge - London Euston,Yes,Online,2,20047.0,628.3,25.82324,66.1,False
+1131,0,2022-02-14,2022-02-14,Stalybridge,London Euston,Stalybridge - London Euston,Yes,Online,1,15688.0,314.15,12.91162,66.1,False
+1132,0,2022-07-02,2022-07-02,Stalybridge,London Euston,Stalybridge - London Euston,Yes,Online,1,15688.0,314.15,12.91162,66.1,False
+1133,0,2022-02-21,2022-02-21,Stalybridge,Manchester Airport,Stalybridge - Manchester Airport,Yes,Online,1,15688.0,25.7,1.05608,6.4,False
+1135,0,2020-12-03,2020-03-13,Stansted Airport,London Liverpool Street,Stansted Airport - London Liverpool Street,Yes,Online,2,29802.0,112.83,4.63727,30.7,False
+1136,0,2021-03-08,2021-03-08,Staplehurst,London Waterloo East,Staplehurst - London Waterloo East,Yes,Online,2,14790.0,143.97,5.91726,23.4,False
+1137,0,2022-02-02,2022-02-02,Stevenage,London Kings Cross,Stevenage - London Kings Cross,Yes,Online,1,23933.0,50.99,2.0956,15.9,False
+1139,0,2020-10-02,2020-10-02,Stockport,Broxbourne,Stockport - Broxbourne,Yes,Online,1,23933.0,312.98,12.86365,176.0,False
+1140,0,2020-01-28,2020-01-28,Stockport,Broxbourne,Stockport - Broxbourne,Yes,Online,2,23933.0,625.89,25.72397,396.0,False
+1141,0,2020-02-03,2020-03-03,Stockport,Broxbourne,Stockport - Broxbourne,Yes,Online,2,23933.0,625.89,25.72397,396.0,False
+1142,0,2022-04-14,2022-04-14,Stockport,Cardiff Central,Stockport - Cardiff Central,Yes,Online,3,27756.0,883.37,36.30649,68.0,False
+1143,0,2022-09-02,2022-09-02,Stockport,Cardiff Central,Stockport - Cardiff Central,Yes,Online,1,15538.0,294.55,12.10606,28.0,False
+1144,0,2022-12-19,2022-12-20,Stockport,Cardiff Central,Stockport - Cardiff Central,Yes,Online,2,27093.0,588.82,24.20044,92.9,False
+1145,0,2023-05-24,2023-05-24,Stockport,Ebbsfleet International,Stockport - Ebbsfleet International,Unknown,Agent Assisted,2,14790.0,725.86,29.8329,79.0,False
+1147,0,2023-11-20,2023-11-20,Stockport,Glossop,Stockport - Glossop,Yes,Online,2,34220.0,44.74,1.83896,10.4,False
+1150,0,2022-11-21,2022-11-23,Stockport,Heathrow Terminal 5 (Rail Station Only),Stockport - Heathrow Terminal 5 (Rail Station Only),Yes,Online,2,15612.0,626.81,25.76195,140.6,False
+1151,0,2021-12-08,2021-12-08,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,95.9,False
+1152,0,2023-10-27,2023-10-27,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,34.0,False
+1153,0,2022-12-20,2022-12-20,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,15538.0,632.56,25.99832,97.6,False
+1154,0,2021-11-16,2021-11-17,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,17726.0,632.56,25.99832,100.0,False
+1155,0,2020-10-02,2020-10-02,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,19444.0,316.44,13.00555,183.0,False
+1156,0,2023-04-24,2023-04-24,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,15538.0,632.56,25.99832,103.4,False
+1157,0,2023-11-24,2023-11-24,Stockport,London Euston,Stockport - London Euston,No,Online,1,15538.0,316.44,13.00555,114.0,False
+1158,0,2020-02-25,2020-02-25,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,20298.0,316.44,13.00555,180.0,False
+1159,0,2021-10-18,2021-10-18,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,38.0,False
+1160,0,2022-11-24,2022-11-24,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,27093.0,316.44,13.00555,149.1,False
+1161,0,2020-01-30,2020-01-30,Stockport,London Euston,Stockport - London Euston,No,Online,1,14792.0,316.44,13.00555,159.0,False
+1162,0,2022-11-23,2022-11-23,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,184.7,False
+1163,0,2023-12-06,2023-12-06,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,184.7,False
+1164,0,2020-03-03,2020-03-03,Stockport,London Euston,Stockport - London Euston,No,Online,3,14792.0,949.0,39.00387,217.0,False
+1165,0,2022-09-02,2022-09-02,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,27093.0,316.44,13.00555,161.1,False
+1166,0,2023-06-07,2023-06-07,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,15538.0,632.87,26.0111,184.7,False
+1167,0,2020-01-30,2020-01-30,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,17726.0,632.56,25.99832,366.0,False
+1168,0,2023-10-31,2023-10-31,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,23933.0,316.44,13.00555,37.0,False
+1169,0,2020-02-18,2020-02-18,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,24651.0,632.56,25.99832,366.0,False
+1170,0,2022-01-31,2022-01-31,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,23933.0,316.44,13.00555,164.5,False
+1171,0,2022-01-31,2022-01-31,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,23933.0,316.44,13.00555,164.5,False
+1172,0,2023-01-18,2023-01-19,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,15612.0,632.56,25.99832,97.6,False
+1173,0,2023-08-03,2023-08-03,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,21739.0,632.56,25.99832,369.4,False
+1174,0,2020-11-02,2020-11-02,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,24651.0,316.44,13.00555,118.0,False
+1175,0,2023-06-07,2023-07-07,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,15538.0,632.56,25.99832,103.4,False
+1176,0,2020-06-03,2020-06-03,Stockport,London Euston,Stockport - London Euston,No,Online,1,14792.0,316.44,13.00555,81.0,False
+1177,0,2020-02-28,2020-02-28,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,24651.0,632.56,25.99832,85.0,False
+1178,0,2023-07-03,2023-10-03,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,20298.0,632.56,25.99832,103.4,False
+1179,0,2022-03-27,2022-03-27,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,73.8,False
+1180,0,2022-03-22,2022-03-22,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,27093.0,316.44,13.00555,56.5,False
+1181,0,2022-03-23,2022-03-23,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,68.3,False
+1182,0,2020-12-02,2020-12-02,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,24651.0,632.56,25.99832,214.5,False
+1183,0,2020-01-16,2020-01-16,Stockport,London Euston,Stockport - London Euston,No,Online,1,14792.0,316.44,13.00555,81.0,False
+1184,0,2023-02-10,2023-02-10,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,15538.0,632.56,25.99832,103.4,False
+1185,0,2020-08-01,2020-09-01,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,19444.0,632.56,25.99832,343.0,False
+1186,0,2022-02-21,2022-02-21,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,184.7,False
+1187,0,2022-04-14,2022-04-14,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,44.7,False
+1188,0,2021-11-15,2021-11-15,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,65.8,False
+1189,0,2020-10-19,2020-10-19,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,152.0,False
+1190,0,2023-09-22,2023-09-22,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,15538.0,632.56,25.99832,103.4,False
+1191,0,2023-09-02,2023-09-02,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,15682.0,632.56,25.99832,369.4,False
+1192,0,2023-11-16,2023-11-16,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,184.7,False
+1193,0,2023-07-31,2023-07-31,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,184.7,False
+1194,0,2023-06-06,2023-06-06,Stockport,London Euston,Stockport - London Euston,Yes,Online,2,15538.0,632.56,25.99832,369.4,False
+1195,0,2022-10-19,2022-10-19,Stockport,London Euston,Stockport - London Euston,No,Online,2,17726.0,632.56,25.99832,510.0,False
+1196,0,2023-06-15,2023-06-15,Stockport,London Euston,Stockport - London Euston,Yes,Online,1,15538.0,316.44,13.00555,184.7,False
+1197,0,2023-05-17,2023-05-17,Stockport,Newport (South Wales),Stockport - Newport (South Wales),Yes,Online,2,23933.0,558.2,22.9419,93.0,False
+1198,0,2023-07-24,2023-07-24,Stockport,Newport (South Wales),Stockport - Newport (South Wales),Yes,Online,1,15538.0,278.93,11.46386,82.9,False
+1199,0,2023-11-27,2023-11-27,Stockport,Newport (South Wales),Stockport - Newport (South Wales),Yes,Online,1,15688.0,278.93,11.46386,48.6,False
+1200,0,2023-09-01,2023-09-01,Stockport,Newport (South Wales),Stockport - Newport (South Wales),Yes,Online,1,15612.0,278.93,11.46386,32.0,False
+1201,0,2020-01-13,2020-01-13,Stockport,Rye House,Stockport - Rye House,Yes,Online,1,23933.0,318.98,13.11005,176.0,False
+1239,0,2020-03-02,2020-03-02,Stockport,West Drayton,Stockport - West Drayton,Yes,Online,1,27093.0,310.51,12.76187,74.0,False
+1240,0,2022-06-12,2022-06-12,Stockport,West Drayton,Stockport - West Drayton,Yes,Online,2,27093.0,621.02,25.52373,71.8,False
+1241,0,2020-03-02,2020-05-02,Stockport,West Drayton,Stockport - West Drayton,Yes,Online,2,27093.0,620.11,25.48665,122.15,False
+1243,0,2023-10-25,2023-10-25,Stockport,West Drayton,Stockport - West Drayton,Yes,Online,1,15538.0,310.51,12.76187,201.6,False
+1244,0,2022-06-12,2022-06-12,Stockport,West Drayton,Stockport - West Drayton,Yes,Online,1,27093.0,310.51,12.76187,71.8,False
+1261,0,2020-02-29,2020-02-03,Strasbourg,St Pancras International,Strasbourg - St Pancras International,Unknown,Agent Assisted,2,27633.0,1584.39,9.50633,288.16,True
+1265,0,2023-05-10,2023-05-10,Stratford International,Ebbsfleet International,Stratford International - Ebbsfleet International,Yes,Online,1,14799.0,34.22,1.40625,20.1,False
+1266,0,2022-05-05,2022-05-05,Stratford International,Ebbsfleet International,Stratford International - Ebbsfleet International,Yes,Online,1,14792.0,34.22,1.40625,19.0,False
+1267,0,2022-08-25,2022-08-25,Stratford International,Ebbsfleet International,Stratford International - Ebbsfleet International,Yes,Online,1,14790.0,34.22,1.40625,19.0,False
+1269,0,2023-11-12,2023-11-12,Tamworth,Livingston North,Tamworth - Livingston North,Yes,Online,1,0.0,487.9,20.05249,81.0,False
+1270,0,2023-04-12,2023-08-12,Tamworth,Livingston North,Tamworth - Livingston North,Yes,Online,2,0.0,975.79,40.10494,158.9,False
+1271,0,2023-11-12,2023-12-15,Tamworth,Livingston North,Tamworth - Livingston North,Yes,Online,4,0.0,1951.58,80.20987,158.9,False
+1283,0,2021-01-12,2021-01-12,Tottenham Hale,Rye House,Tottenham Hale - Rye House,Yes,Online,1,23933.0,25.6,1.05197,12.3,False
+1284,0,2021-05-25,2021-05-25,Tottenham Hale,Rye House,Tottenham Hale - Rye House,Yes,Online,1,23933.0,25.6,1.05197,8.9,False
+1285,0,2022-01-31,2022-01-31,Tottenham Hale,Rye House,Tottenham Hale - Rye House,Yes,Online,1,23933.0,25.6,1.05197,8.9,False
+1302,0,2020-11-02,2020-11-02,Ware (Herts),London Liverpool Street,Ware (Herts) - London Liverpool Street,Yes,Online,2,23933.0,72.3,2.97166,14.1,False
+1303,0,2020-11-02,2020-11-02,Ware (Herts),Seven Sisters,Ware (Herts) - Seven Sisters,Yes,Online,1,23933.0,28.29,1.16284,14.1,False
+1304,0,2021-05-27,2021-05-27,Ware (Herts),Tottenham Hale,Ware (Herts) - Tottenham Hale,Yes,Online,1,23933.0,27.79,1.14217,11.1,False
+1326,0,2023-03-16,2023-03-16,West Drayton,Cardiff Central,West Drayton - Cardiff Central,Yes,Online,2,27093.0,429.82,17.6658,139.7,False
+1328,0,2020-01-30,2020-01-30,West Drayton,London Paddington,West Drayton - London Paddington,Yes,Online,2,24651.0,50.73,2.08483,19.1,False
+1329,0,2020-02-26,2020-02-26,West Drayton,London Paddington,West Drayton - London Paddington,Yes,Online,2,29423.0,50.73,2.08483,19.0,False
+1333,0,2020-05-02,2020-05-02,West Drayton,Stockport,West Drayton - Stockport,Yes,Online,1,27093.0,309.61,12.72478,95.3,False
+1334,0,2020-02-19,2020-02-19,West Drayton,Stockport,West Drayton - Stockport,Yes,Online,3,27093.0,929.72,38.21144,213.65,False
+1335,0,2020-06-02,2020-06-02,West Drayton,Stockport,West Drayton - Stockport,Yes,Online,2,27093.0,620.11,25.48665,213.65,False
+1336,0,2022-05-26,2022-05-26,West Drayton,Stockport,West Drayton - Stockport,Yes,Online,1,27093.0,309.61,12.72478,187.5,False
+1337,0,2021-04-21,2021-04-21,West Drayton,Stockport,West Drayton - Stockport,Yes,Online,3,27093.0,929.72,38.21144,216.3,False
+1340,0,2023-09-20,2023-09-20,Weston-super-Mare,London Paddington,Weston-super-Mare - London Paddington,Yes,Online,2,15397.0,449.8,18.48674,268.0,False
+1341,0,2023-03-07,2023-04-07,Weston-super-Mare,London Paddington,Weston-super-Mare - London Paddington,Yes,Online,2,15397.0,449.8,18.48674,116.3,False
+1343,0,2022-10-26,2022-10-27,Wickford,Manchester Piccadilly,Wickford - Manchester Piccadilly,Yes,Online,2,29802.0,719.08,29.55419,106.6,False
+1344,0,2022-12-08,2022-12-08,Wickford,Stratford (London),Wickford - Stratford (London),Yes,Online,2,29802.0,86.48,3.5543,30.1,False
+1345,0,2022-07-29,2022-07-29,Wickford,Stratford (London),Wickford - Stratford (London),Yes,Online,2,29802.0,86.48,3.5543,30.1,False
+1351,0,2023-03-15,2023-03-15,Wilmslow,Newport (South Wales),Wilmslow - Newport (South Wales),No,Online,2,15757.0,518.19,21.29779,139.5,False
+1354,0,2020-01-19,2020-01-19,Wilmslow,Ware (Herts),Wilmslow - Ware (Herts),Yes,Online,1,23933.0,293.85,12.07736,97.3,False
+1355,0,2020-02-03,2020-02-03,Witham,London Liverpool Street,Witham - London Liverpool Street,Yes,Online,1,24812.0,71.0,2.91802,27.2,False
